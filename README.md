@@ -1,4 +1,4 @@
-####client node_modules
+**client node_modules**  
 ├── @fortawesome/fontawesome-svg-core@1.2.36  
 ├── @fortawesome/free-brands-svg-icons@5.15.4  
 ├── @fortawesome/free-regular-svg-icons@5.15.4  
@@ -31,7 +31,7 @@
 ├── uuid@8.3.2  
 └── web-vitals@2.1.4  
 
-####server node_modules
+**server node_modules**  
 ├── @material-ui/core@4.12.3  
 ├── axios@0.25.0  
 ├── body-parser@1.19.1  
